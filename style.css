@@ -1,0 +1,22 @@
+body{
+    background-color: #161a1d;
+}
+#container{
+    width:80vw;
+    margin:10px auto;
+}
+#inp{
+    font-size:24px;
+}
+button{
+    font-size:24px;
+}
+h1{
+          color:white;
+}
+#image img{
+    border-radius: 10px;
+}
+img:hover{
+     transform:scale(1.1);
+}
